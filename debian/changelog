@@ -1,0 +1,21 @@
+ros-kinetic-raspi-temperature (0.1.1-0xenial) xenial; urgency=high
+
+  * Release
+  * Corrected a little error
+  * Contributors: B.N.Berrevoets
+
+ -- B.N.Berrevoets <bert@berrevoets.net>  Sat, 02 Jun 2018 22:00:00 -0000
+
+ros-kinetic-raspi-temperature (0.1.0-0xenial) xenial; urgency=high
+
+  * Ready
+  * Set the license
+  * Cleaning up
+  * Launch file added
+  * updated package.xml
+  * first commit
+  * Contributors: B.N.Berrevoets
+
+ -- B.N.Berrevoets <bert@berrevoets.net>  Sat, 02 Jun 2018 22:00:00 -0000
+
+
