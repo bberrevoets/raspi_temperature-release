@@ -20,5 +20,6 @@ Versions of tools used:
 - rosdistro version: `0.6.8`
 - vcstools version: `0.1.40`
 
+[![Build Status](http://build.ros.org/job/Kbin_uX32__raspi_temperature__ubuntu_xenial_i386__binary/badge/icon)](http://build.ros.org/job/Kbin_uX32__raspi_temperature__ubuntu_xenial_i386__binary)
 
 # raspi_temperature-release
